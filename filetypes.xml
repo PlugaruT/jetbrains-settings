@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="When_we_write_viapost_asn_file_with_PO_created_and_cancelled" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
