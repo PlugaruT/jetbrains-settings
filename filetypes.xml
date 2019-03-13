@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="When_we_write_viapost_asn_file_with_PO_created_and_cancelled" type="PLAIN_TEXT" />
-      <mapping pattern="When_we_write_ktn_asn_file_with_changed_sud" type="PLAIN_TEXT" />
-      <mapping pattern="When_we_write_redprairie_asn_file_with_update_records_removed_lines" type="PLAIN_TEXT" />
-      <mapping pattern="When_we_write_ktn_asn_file_with_shipments_created_and_cancelled_in_same_file" type="PLAIN_TEXT" />
       <mapping pattern="When_we_write_ktn_asn_file_with_update_records_updated_line" type="PLAIN_TEXT" />
-      <mapping pattern="When_we_write_ktn_asn_file_with_update_records_added_line" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_redprairie_asn_file_with_update_records_removed_lines" type="PLAIN_TEXT" />
       <mapping pattern="When_we_write_ktn_asn_file_with_update_records_removed_lines" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_ktn_asn_file_with_only_cancellations" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_ktn_asn_file_with_changed_sud" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_ktn_asn_file_with_update_records_added_line" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_viapost_asn_file_with_PO_created_and_cancelled" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_ktn_asn_file_with_shipments_created_and_cancelled_in_same_file" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
