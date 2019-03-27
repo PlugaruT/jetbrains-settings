@@ -8,6 +8,8 @@
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="indicatorStyle" value="Dot" />
     <option name="highlightThickness" value="3" />
     <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="20" />
@@ -15,5 +17,6 @@
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="22072b4d:1690f30c277:-8000" />
     <option name="version" value="3.5.0.1" />
+    <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
