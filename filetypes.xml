@@ -1,16 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="When_we_write_viapost_asn_file_with_PO_created_and_cancelled" type="PLAIN_TEXT" />
-      <mapping pattern="When_we_write_ktn_asn_file_with_update_records_removed_lines" type="PLAIN_TEXT" />
-      <mapping pattern="When_writing_ktn_55_product_file_golden" type="PLAIN_TEXT" />
-      <mapping pattern="When_we_write_ktn_asn_file_with_shipments_created_and_cancelled_in_same_file" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="When_we_write_ktn_asn_file_with_update_records_updated_line" type="PLAIN_TEXT" />
-      <mapping pattern="When_we_write_ktn_asn_file_with_changed_sud" type="PLAIN_TEXT" />
       <mapping pattern="When_we_write_ktn_asn_file_with_only_cancellations" type="PLAIN_TEXT" />
-      <mapping pattern="When_we_write_ktn_asn_file_with_feature_toggle_off_and_then_on" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_ktn_asn_file_with_unchanged_purchase_order" type="PLAIN_TEXT" />
       <mapping pattern="When_we_write_ktn_asn_file_with_update_records_added_line" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_ktn_asn_file_with_shipments_created_and_cancelled_in_same_file" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_viapost_asn_file_with_PO_created_and_cancelled" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_ktn_asn_file_with_changed_sud" type="PLAIN_TEXT" />
+      <mapping pattern="When_writing_ktn_55_product_file_golden" type="PLAIN_TEXT" />
       <mapping pattern="When_we_write_redprairie_asn_file_with_update_records_removed_lines" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_ktn_asn_file_with_update_records_removed_lines" type="PLAIN_TEXT" />
+      <mapping pattern="When_we_write_ktn_asn_file_with_feature_toggle_off_and_then_on" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
