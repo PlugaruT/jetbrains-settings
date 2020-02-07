@@ -13,6 +13,7 @@
       <mapping pattern="When_we_write_ktn_asn_file_with_feature_toggle_off_and_then_on" type="PLAIN_TEXT" />
       <mapping pattern="When_we_write_redprairie_asn_file_with_update_records_removed_lines" type="PLAIN_TEXT" />
       <mapping pattern="When_we_write_ktn_asn_file_with_update_records_removed_lines" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
